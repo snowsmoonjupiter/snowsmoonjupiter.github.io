@@ -12,6 +12,4 @@ I'm enjoying learning these new things and excited to boost my zero skills! =)
 <ul>
 <li> <a href="https://github.com/{{ site.github_snowsmoonjupiter
        }}">GitHub</a></li>
-       <li> <a href="https://www.linkedin.com/{{ site.linkedin_kristýna-jurečková
-              }}">LinkedIn </a></li>
 </ul>
