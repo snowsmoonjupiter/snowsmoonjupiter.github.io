@@ -9,12 +9,13 @@ Orient in basic terminology, be able to proceed with simple tasks or projects.
 # My Blog
 I'm enjoying learning these new things and excited to boost my zero skills! =) 
 <ul> 
-{% for post in site.posts %} 
+<!--{% for post in site.posts %} -->
 <li> 
 <a href="{{ post.url }}">{{ post.title }}</a> 
 </li> 
-{% endfor %}
+<!--{% endfor %} -->
 </ul> 
+       
 # My Projects
 <ul> 
        <li> <a href="https://github.com/snowsmoonjupiter/Hello_World">Hello World Project</a>
