@@ -16,10 +16,10 @@ I'm enjoying learning these new things and excited to boost my zero skills! =)
        {% endfor %} 
 </ul> 
 # My Projects
-<u> 
+<ul> 
        <li> <a href="https://github.com/snowsmoonjupiter/Hello_World">Hello World Project</a>
        </li>
-</u>
+</ul>
 # Get in Touch
 <ul>
 <li> <a href="https://github.com/{{ site.github_snowsmoonjupiter
