@@ -13,7 +13,8 @@ I'm enjoying learning these new things and excited to boost my zero skills! =)
        <li> 
        <a href="{{ post.url }}">{{ post.title }}</a> 
        </li> 
-       {% endfor %}</ul> 
+       {% endfor %}
+</ul> 
 # My Projects
 <ul> 
        <li> <a href="https://github.com/snowsmoonjupiter/Hello_World">Hello World Project</a>
