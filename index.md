@@ -18,7 +18,6 @@ I'm enjoying learning these new things and excited to boost my zero skills! =)
 # My Projects
 <u> 
        <li> <a href="https://github.com/snowsmoonjupiter/Hello_World">Hello World Project </a>
-       <li> <a href="https://github.com/thewecanzone/GitHubForDummies Readers">GitHub For Dummies Repo</a></li> 
        </li>
 </u>
 # Get in Touch
