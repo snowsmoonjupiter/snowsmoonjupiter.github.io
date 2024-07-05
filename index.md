@@ -1,9 +1,9 @@
 #  Focusing to learn the following:
-Git
-GitHub
-SQL 
-Python
-Java 
+Git,
+GitHub,
+SQL, 
+Python,
+Java. 
 # My expectations from learning and practising the above mentioned:
 Orient in basic terminology, be able to proceed with simple tasks or projects.
 # My Blog
